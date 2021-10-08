@@ -50,7 +50,7 @@ header a{
 
 .filme-principal{
 	font-size: 16px;
-	background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(3, 3, 3, 0.5)), url('/netflix_project/src/abraham2.jpg');
+	background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(3, 3, 3, 0.5)), url('../../src/abraham2.jpg');
 	height: 350px;
 	background-size: cover;
 
